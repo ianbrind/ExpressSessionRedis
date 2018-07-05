@@ -1,0 +1,23 @@
+{
+  "name": "@aliene/express-session-redis",
+  "version": "1.0.0",
+  "description": "Add support for PHP Session Redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianbrind/ExpressSessionRedis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianbrind/ExpressSessionRedis/issues"
+  },
+  "homepage": "https://github.com/ianbrind/ExpressSessionRedis#readme",
+  "dependencies": {
+    "cookies": "^0.7.1",
+    "php-unserialize": "0.0.1"
+  }
+}
